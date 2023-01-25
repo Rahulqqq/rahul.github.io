@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rahulqqq/rahul.github.io/static/css/main.ccb2660f.css",
+    "main.js": "/Rahulqqq/rahul.github.io/static/js/main.14232b92.js",
+    "index.html": "/Rahulqqq/rahul.github.io/index.html",
+    "main.ccb2660f.css.map": "/Rahulqqq/rahul.github.io/static/css/main.ccb2660f.css.map",
+    "main.14232b92.js.map": "/Rahulqqq/rahul.github.io/static/js/main.14232b92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccb2660f.css",
+    "static/js/main.14232b92.js"
+  ]
+}
