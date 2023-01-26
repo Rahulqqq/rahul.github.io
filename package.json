@@ -2,11 +2,11 @@
   "name": "rahul.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Rahulqqq/rahul.github.io",
+  "homepage": "https://rahulqqq.github.io",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "predeploy": "npm run build",
+    "predeploy": " npm run build",
     "deploy": "gh-pages -d build",
     "test": "react-scripts test"
   },

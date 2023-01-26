@@ -7,7 +7,7 @@ export function Portfolio() {
         <div className='project neumorphism-card-mid'>
           <div className="name-link-wrapper">
             <a color='blue' href="https://taxtchange-t.netlify.app/" target="_blank" rel="noreferrer">
-              <h3>Website</h3>
+              <h3>TextChange</h3>
             </a>
           </div>
           <p className='project-desc'>A Website</p>
@@ -43,11 +43,11 @@ export function Portfolio() {
         <div className='project neumorphism-card-mid'>
           <div className="name-link-wrapper">
             <a href="https://automobile-a.netlify.app/" target="_blank" rel="noreferrer">
-              <h3>A website</h3>
+              <h3>Automobile</h3>
             </a>
           </div>
 
-          <p className='project-desc'>A Responsive Webpage</p>
+          <p className='project-desc'>A Website</p>
           <a className='highlight-link' href="https://automobile-a.netlify.app/"
             target="_blank" rel="noreferrer">GitHub</a>
           <div className="tag-wrapper">
@@ -61,7 +61,7 @@ export function Portfolio() {
         <div className='project neumorphism-card-mid'>
           <div className="name-link-wrapper">
             <a href="https://simon-game-c.netlify.app/" target="_blank" rel="noreferrer">
-              <h3>A simple game</h3>
+              <h3>Simon-Game</h3>
             </a>
           </div>
 
