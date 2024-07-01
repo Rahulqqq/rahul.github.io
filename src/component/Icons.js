@@ -50,7 +50,7 @@ export function Icons(props) {
           </div>
           <span className="label">Telegram</span>
         </a>
-        <a className="social-link whatsapp" aria-label="My Whatsapp" target="_blank" rel="noreferrer" href="https://wa.me/9630322001">
+        <a className="social-link whatsapp" aria-label="My Whatsapp" target="_blank" rel="noreferrer" href="https://wa.me/+919630322001">
           <svg viewBox="0 0 200 200" className="circle">
             <circle cx="100" cy="100" r="80" fill='null' />
           </svg>

@@ -33,7 +33,7 @@ export function Experience() {
                           <span className="tag neumorphism-card">APIs</span>
                           <span className="tag neumorphism-card">Git & Github</span>
                           <span className="tag neumorphism-card">MongoDB</span>
-                          <span className="tag neumorphism-card">mySQL</span>
+                          <span className="tag neumorphism-card">MySQL</span>
                           <span className="tag neumorphism-card">Mongoose</span>
                           <span className="tag neumorphism-card">Authentication & Security</span>
                       </div>
@@ -61,7 +61,7 @@ export function Experience() {
                   <span className='hexagon'></span>
                   <span className='flag neumorphism-button' data-aos="zoom-in-left">
                     <a href="https://bce.ac.in/" target="_blank" rel="noreferrer">
-                      <span>Bansal College Of Engineering</span>
+                      <span>Bansal College of Engineering, Mandideep</span>
                     </a>
                   </span>
                   <span className='time-wrapper' data-aos="zoom-in-left">
@@ -71,7 +71,7 @@ export function Experience() {
                 <div className='neumorphism-card-mid'>
                 Bachelor of Technology
                   <div className="desc neumorphism-card" data-aos="zoom-in-left">
-                      Computer Science
+                      Computer Science & Engineering
                       <div className="tag-wrapper">
                           <span className="tag neumorphism-card">C</span>
                           <span className="tag neumorphism-card">C++</span>
@@ -86,6 +86,41 @@ export function Experience() {
                           <span className="tag neumorphism-card">Communication</span>
                           <span className="tag neumorphism-card">Problem Solving</span>
                           <span className="tag neumorphism-card">Visual Studio Code</span>
+                      </div>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div className='direction-r'>
+                <div className='flag-wrapper'>
+                  <span className='hexagon'></span>
+                  <span className='flag neumorphism-button' data-aos="zoom-in-left">
+                    <a href="" target="_blank" rel="noreferrer">
+                      <span>Oriental College of Technology, Bhopal</span>
+                    </a>
+                  </span>
+                  <span className='time-wrapper' data-aos="zoom-in-left">
+                    <span className='time neumorphism-card'>Aug 2022 - Aug 2024</span>
+                  </span>
+                </div>
+                <div className='neumorphism-card-mid'>
+                  Master of Technology
+                  <div className="desc neumorphism-card" data-aos="zoom-in-left">
+                   Computer Science & Engineering
+                      <div className="tag-wrapper">
+                          <span className="tag neumorphism-card">Machine Learning</span>
+                          <span className="tag neumorphism-card">Python</span>
+                          <span className="tag neumorphism-card">Java</span>
+                          <span className="tag neumorphism-card">Spring-Boot</span>
+                          <span className="tag neumorphism-card">PostMan</span>
+                          <span className="tag neumorphism-card">Linux</span>
+                          <span className="tag neumorphism-card">APIs</span>
+                          <span className="tag neumorphism-card">Git & Github</span>
+                          <span className="tag neumorphism-card">MongoDB</span>
+                          <span className="tag neumorphism-card">MySQL</span>
+                          <span className="tag neumorphism-card">Mongoose</span>
+                          <span className="tag neumorphism-card">Authentication & Security</span>
                       </div>
                   </div>
                 </div>
