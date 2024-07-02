@@ -1,6 +1,6 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
-import { faTelegram, faLinkedinIn, faGithub, faWhatsapp, faStackOverflow } from '@fortawesome/free-brands-svg-icons'
+import { faTelegram, faLinkedinIn, faGithub, faWhatsapp, faStackOverflow,} from '@fortawesome/free-brands-svg-icons'
 
 export function Icons(props) {
     return (
@@ -41,7 +41,7 @@ export function Icons(props) {
           </div>
           <span className="label">StackOverflow</span>
         </a>
-        <a className="social-link telegram" aria-label="My Telegram" target="_blank" rel="noreferrer" href="https://t.me/rahul_sharma_67">
+      <a className="social-link telegram" aria-label="My Telegram" target="_blank" rel="noreferrer" href="https://t.me/rahul_sharma_67">
           <svg viewBox="0 0 200 200" className="circle">
             <circle cx="100" cy="100" r="80" fill='null' />
           </svg>
