@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import styled, { keyframes } from 'styled-components';
 import { merge, bounce, fadeInDown, fadeIn, zoomIn, flash, flipInX } from 'react-animations';
 
@@ -13,3 +14,4 @@ const fadeInXZoomIn = merge(bounce, fadeIn)
 export const Flash = styled.h1.attrs({})` animation: 5s ${keyframes `${flash}`}`;
 
 export default FlipInX;
+/* eslint-disable no-unused-vars */
