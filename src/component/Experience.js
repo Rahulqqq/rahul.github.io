@@ -9,7 +9,7 @@ export function Experience() {
                 <div className='flag-wrapper'>
                   <span className='hexagon'></span>
                   <span className='flag neumorphism-button' data-aos="zoom-in-left">
-                    <a href="" target="_blank" rel="noreferrer">
+                    <a href="https://rahulqqq.github.io/" target="_blank" rel="noreferrer">
                       <span>Full Stack Developer</span>
                     </a>
                   </span>
@@ -96,7 +96,7 @@ export function Experience() {
                 <div className='flag-wrapper'>
                   <span className='hexagon'></span>
                   <span className='flag neumorphism-button' data-aos="zoom-in-left">
-                    <a href="" target="_blank" rel="noreferrer">
+                    <a href="https://oriental.ac.in/" target="_blank" rel="noreferrer">
                       <span>Oriental College of Technology, Bhopal</span>
                     </a>
                   </span>
