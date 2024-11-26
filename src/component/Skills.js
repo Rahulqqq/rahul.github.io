@@ -1,6 +1,9 @@
 import "./Skills.scss";
 
 const skills = [
+    { name: 'Java', type: 'framework', weight: 5 },
+    { name: 'Spring-Boot', type: 'framework', weight: 3 },
+    { name: 'mySQL', type: 'tool', weight: 4 },
     { name: 'React', type: 'framework', weight: 5 },
     { name: 'Express', type: 'framework', weight: 3 },
     { name: 'BitBucket', type: 'tool', weight: 4 },
@@ -13,7 +16,7 @@ const skills = [
     { name: 'Node', type: 'framework', weight: 4 },
     { name: 'DOM', type: 'language', weight: 5 },
     // { name: 'Mockito', type: 'framework', weight: 3 },
-    { name: 'mySQL', type: 'tool', weight: 4 },
+    
     { name: 'jQuery', type: 'framework', weight: 3 },
     { name: 'Mongoose', type: 'framework', weight: 3 },
     { name: 'Python', type: 'language', weight: 4 },

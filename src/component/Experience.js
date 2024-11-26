@@ -1,7 +1,7 @@
 export function Experience() {
   return (
       <section className='card neumorphism-card-big'>
-      <h1 className='title'>Education</h1>
+      <h1 className='title'>Education & Experience</h1>
       <div className='timeline-wrapper'>
         <ul className='timeline'>
           <li>
@@ -9,24 +9,23 @@ export function Experience() {
               <div className='flag-wrapper'>
                 <span className='hexagon'></span>
                 <span className='flag neumorphism-button' data-aos="zoom-in-left">
-                  <a href="https://rahulqqq.github.io/" target="_blank" rel="noreferrer">
-                    <span>Full Stack Developer</span>
+                  <a href="https://miamincorp.com/" target="_blank" rel="noreferrer">
+                    <span>Miamin Systems Inc.</span>
                   </a>
                 </span>
-                {/* <span className='time-wrapper' data-aos="zoom-in-left">
-                  <span className='time neumorphism-card'>Aug 2021 - Present</span>
-                </span> */}
+                <span className='time-wrapper' data-aos="zoom-in-left">
+                  <span className='time neumorphism-card'>Nov 2024 - Present</span>
+                </span>
               </div>
               <div className='neumorphism-card-mid'>
-                Full Stack Developer
+                Associate Software Engineer
                 <div className="desc neumorphism-card" data-aos="zoom-in-left">
                   Framework & Languages
                     <div className="tag-wrapper">
+                        <span className="tag neumorphism-card">Spring-Boot</span>
+                        <span className="tag neumorphism-card">Java</span>
                         <span className="tag neumorphism-card">React</span>
-                        <span className="tag neumorphism-card">Node</span>
-                        <span className="tag neumorphism-card">Express</span>
-                        <span className="tag neumorphism-card">JavaScript </span>
-                        <span className="tag neumorphism-card">Python</span>
+                        <span className="tag neumorphism-card">JavaScript</span>
                         <span className="tag neumorphism-card">DOM</span>
                         <span className="tag neumorphism-card">jQuery</span>
                         <span className="tag neumorphism-card">Unix</span>
